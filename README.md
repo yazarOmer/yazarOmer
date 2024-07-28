@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ömer</h1>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Software+Engineer" alt="Typing SVG" /></a>
+<a align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Software+Engineer" alt="Typing SVG" /></a>
 
 <h3 align="center">I am a software engineer who focused especially frontend development. I love to create user friendly web applications using React.js and Next.js</h3>
 
