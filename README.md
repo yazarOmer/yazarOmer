@@ -23,4 +23,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yazaromer&show_icons=true&locale=en" alt="yazaromer" /></p>
 
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=yazarOmer&theme=tokyonight-duo&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /></a>
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yazaromer&" alt="yazaromer" /></p>
